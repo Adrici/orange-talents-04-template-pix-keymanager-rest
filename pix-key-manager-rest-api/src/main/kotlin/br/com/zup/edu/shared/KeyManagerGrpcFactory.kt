@@ -1,6 +1,5 @@
 package br.com.zup.edu.shared
 
-
 import br.com.zup.grpc.KeymanagerConsultaGrpcServiceGrpc
 import br.com.zup.grpc.KeymanagerListaGrpcServiceGrpc
 import br.com.zup.grpc.KeymanagerRegistraGrpcServiceGrpc
